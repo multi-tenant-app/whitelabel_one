@@ -1,0 +1,3 @@
+rootProject.name = 'whitelabel_one'
+
+include ':app'
